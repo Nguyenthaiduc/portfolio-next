@@ -1,11 +1,10 @@
-import styles from '../styles/Home.module.css'
 import NextLink from 'next/link'
 import { Container, Box, Heading, Image, useColorModeValue, Link , Button ,List , ListItem ,Icon,SimpleGrid,GridItem } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import {BioSection , BioYear } from '../components/bio'
-import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub,IoLogoFacebook ,IoLogoDiscord} from 'react-icons/io5'
+import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub,IoLogoFacebook} from 'react-icons/io5'
 import Footer from '../components/footer'
 import Bg from '../components/background-animation'
 import { SiSpotify } from "react-icons/si";
