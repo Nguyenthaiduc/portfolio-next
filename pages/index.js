@@ -158,7 +158,7 @@ export default function Home() {
            Coming soon
           </GridItem>
           <GridItem
-            href="https://www.inkdrop.app/"
+            href="https://www.google.com/"
             title="Inkdrop"
             
           >
