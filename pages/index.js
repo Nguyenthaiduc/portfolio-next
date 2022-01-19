@@ -22,7 +22,7 @@ export default function Home() {
         <Box flexGrow={1}>
 
           <Heading as="h2" variant="page-title" >
-            NT Đức
+            Nguyen Duc
           </Heading>
           <p>Sometimes music speaks what you feel inside 🎶</p>
         </Box>
@@ -104,7 +104,7 @@ export default function Home() {
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/inkdrop_app" target="_blank">
+            <Link href="https://twitter.com/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="blue"
