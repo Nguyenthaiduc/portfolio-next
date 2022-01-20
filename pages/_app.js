@@ -20,7 +20,6 @@ function MyApp({ Component, pageProps ,router }) {
     
   <ChakraProvider theme={theme}>
   <Fonts />
-   
   <Particles
       id="tsparticles"
       init={particlesInit}
