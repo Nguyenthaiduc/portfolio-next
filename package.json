@@ -18,13 +18,13 @@
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "react-tsparticles": "^1.39.0"
   },
   "devDependencies": {
     "eslint": "8.7.0",
     "eslint-config-next": "^12.0.8",
-    "prettier": "^2.5.1",
-    "tsparticles": "^1.39.0"
+    "prettier": "^2.5.1"
   },
   "description": "Dusk Profile Website",
   "version": "1.0.0",
