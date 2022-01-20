@@ -43,7 +43,6 @@ export default function Home() {
 
       {/* // hiệu ứng Section */}
       <Section delay={0.2} >
-        <Bg />
         
           
             
@@ -83,7 +82,7 @@ export default function Home() {
 
         <BioSection>
           <BioYear>2020</BioYear>
-          Learn Computer Science
+          Learning ...
           
         </BioSection>
           
