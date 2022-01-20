@@ -6,7 +6,6 @@ import { ChevronRightIcon } from '@chakra-ui/icons'
 import {BioSection , BioYear } from '../components/bio'
 import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub,IoLogoFacebook} from 'react-icons/io5'
 import Footer from '../components/footer'
-import Bg from '../components/background-animation'
 import { SiSpotify } from "react-icons/si";
 
 
@@ -43,7 +42,6 @@ export default function Home() {
 
       {/* // hiệu ứng Section */}
       <Section delay={0.2} >
-        <Bg />
           
             
           
