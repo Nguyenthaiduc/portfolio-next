@@ -34,7 +34,7 @@ const ColorControls = ({
       </FormControl>
       <FormControl>
         <FormLabel htmlFor="browserAddressBarBackgroundColor">
-          Background Color of Browser's Address Bar
+          Background Color of Browsers Address Bar
         </FormLabel>
         <ColorPicker
           color={browserAddressBarBackgroundColor}

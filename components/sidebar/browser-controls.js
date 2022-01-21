@@ -32,7 +32,7 @@ const BrowserControls = ({
             }
           />
           <FormLabel htmlFor="show-browser-address-bar">
-            Show Browser's Address Bar
+            Show Browsers Address Bar
           </FormLabel>
         </Stack>
       </FormControl>
@@ -44,7 +44,7 @@ const BrowserControls = ({
             onChange={() => setBrowserShadowVisibility(!isBrowserShadowVisible)}
           />
           <FormLabel htmlFor="show-browser-shadow">
-            Show Browser's Shadow
+            Show Browsers Shadow
           </FormLabel>
         </Stack>
       </FormControl>
