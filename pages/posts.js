@@ -8,7 +8,9 @@ import {
   Button
 } from '@chakra-ui/react'
 
-const NotFound = () => {
+
+const Works = () => {
+future-plans
   return (
     <Container>
       <Heading as="h1">404</Heading>
@@ -24,4 +26,8 @@ const NotFound = () => {
   )
 }
 
-export default NotFound
+
+
+
+export default Works
+
