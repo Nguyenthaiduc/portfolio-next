@@ -10,7 +10,6 @@ import {
 
 
 const Works = () => {
-future-plans
   return (
     <Container>
       <Heading as="h1">404</Heading>
