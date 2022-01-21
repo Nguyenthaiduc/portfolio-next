@@ -112,3 +112,7 @@ a {
   color: #888;
   font-size: 18px;
 }
+.index{
+  position: relative;
+  align-items:50% 50%
+}

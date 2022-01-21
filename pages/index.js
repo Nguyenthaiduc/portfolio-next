@@ -14,7 +14,17 @@ export default function Home() {
     //phần header tiêu đề
     <Container>
       <Box borderRadius="lg" bg={useColorModeValue('WhiteAlpha.500', 'WhiteAlpha.200')} p={3} mb={6} align="center">
-        Hello I&apos;m Nguyen Duc ^_^
+      <Heading
+          as="h1"
+          fontFamily="body"
+          bgColor="blue.400"
+          bgClip="text"
+          size="xl"
+          bgGradient="linear(to-l, #79c2ff, #4a5888)"
+          className="jumbotron-name-heading"
+        >
+          Hi, I&apos;m Nguyen Duc ^_^
+        </Heading>
       </Box>
       {/* Phan tren */}
       <Box display={{ md: 'flex' }} >

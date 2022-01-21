@@ -79,6 +79,9 @@ const Navbar = (props) => {
                     <LinkItem href="/music" path={path}>
                         Music
                     </LinkItem>
+                    <LinkItem href="/upload" path={path}>
+                        Upload
+                    </LinkItem>
                 </Stack>
                 <Box flex={1} align="right">
                 {/* nut doi mau background */}
@@ -103,6 +106,9 @@ const Navbar = (props) => {
                                 </NextLink>
                                 <NextLink href="/music" passHref>
                                     <MenuItem as={Link}>Music</MenuItem>
+                                </NextLink>
+                                <NextLink href="/upload" passHref>
+                                    <MenuItem as={Link}>Upload</MenuItem>
                                 </NextLink>
                                 
                             </MenuList>
