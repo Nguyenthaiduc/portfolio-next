@@ -1,11 +1,11 @@
+import { Box } from "@chakra-ui/react";
 import React from "react";
-import { Box, Image } from "@chakra-ui/react";
-import DownloadAndResetButtons from "./download-and-reset-buttons";
-import ColorControls from "./color-controls";
-import BrowserControls from "./browser-controls";
-import PreviewWindowControls from "./preview-window-controls";
-import DeviceControls from "./device-controls";
 import BackgroundImageControls from "./background-image-controls";
+import BrowserControls from "./browser-controls";
+import ColorControls from "./color-controls";
+import DeviceControls from "./device-controls";
+import DownloadAndResetButtons from "./download-and-reset-buttons";
+import PreviewWindowControls from "./preview-window-controls";
 
 const Sidebar = ({
   previewBackgroundColor,
