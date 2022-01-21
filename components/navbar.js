@@ -76,6 +76,9 @@ const Navbar = (props) => {
                     <LinkItem href="/posts" path={path}>
                         Posts
                     </LinkItem>
+                    <LinkItem href="/music" path={path}>
+                        Music
+                    </LinkItem>
                 </Stack>
                 <Box flex={1} align="right">
                 {/* nut doi mau background */}
@@ -97,6 +100,9 @@ const Navbar = (props) => {
                                 </NextLink>
                                 <NextLink href="/posts" passHref>
                                     <MenuItem as={Link}>Posts</MenuItem>
+                                </NextLink>
+                                <NextLink href="/music" passHref>
+                                    <MenuItem as={Link}>Music</MenuItem>
                                 </NextLink>
                                 
                             </MenuList>
