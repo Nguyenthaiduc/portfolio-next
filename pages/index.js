@@ -42,7 +42,7 @@ export default function Home() {
             borderWidth={2} borderStyle="solid"
             maxWidth="100px"
             display="inline-block"
-            borderRadius="full" src="/images/dusk.jpg"
+            borderRadius="full" src="/images/dusk.gif"
             alt="Profile Avatar"
 
           />
