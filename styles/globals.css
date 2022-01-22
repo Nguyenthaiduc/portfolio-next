@@ -51,10 +51,10 @@ a {
 
 .c-player--details .details-img img {
   display: block;
-  margin: 50px auto;
+  margin: 45px auto;
   width: 100%;
-  max-width: 250px;
-  border-radius: 100%;
+  max-width: 180px;
+  border-radius: 50%;
 }
 
 .c-player--details .details-img:after {
