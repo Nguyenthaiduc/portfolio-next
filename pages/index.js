@@ -59,7 +59,7 @@ export default function Home() {
         <Heading as="h3" variant="section-title">
           Work
         </Heading>
-        <Paragraph>Chào Mừng Các Bạn Đã Ghé Thăm
+        <Paragraph>Welcome
          
           {/* <NextLink href="/works/inkdrop"><Link>Inkdrop</Link>
           </NextLink> */}
@@ -85,7 +85,7 @@ export default function Home() {
         </Heading>
         <BioSection>
           <BioYear>20xx</BioYear>
-          Born in HCMC (SaiGon) , VN
+          Born in  VN
         </BioSection>
 
         <BioSection>
